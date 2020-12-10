@@ -1,0 +1,8 @@
+Para ejecutar este programa debes escribir por consola:
+
+$node app.js <nombre_del_archivo> <extension_del_archivo> <indicador_economico> <Pesos_a_convertir>
+
+<nombre_del_archivo>: indica el nombre del archivo a crear.
+<extension_del_archivo>: indica el tipo de extension del archivo como por ejemplo txt, doc.
+<indicador_economico>: puede ser [uf, ivp, dolar, dolar_intercambio, euro, utm, libra_cobre, bitcoin].
+<Pesos_a_convertir>: valor que indica pesos a convertir.
